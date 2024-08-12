@@ -6,10 +6,12 @@
   margin:0;
   padding:0;
   font-family: 'Playfair Display', serif;
+  
 }
 
 body{
-  background: #deefff;
+  background: #d4dbe1;
+background: linear-gradient(0deg, #b4c3ff 14%, #f0f3ff 100%);
   
 }
 
