@@ -1,0 +1,70 @@
+.start{
+    border: 3px solid rgb(136, 136, 162);
+    border-radius: 20px;
+    width:900px;
+    height:400px;
+    margin: auto;
+
+}
+#introduction{
+    font-family: swear-display, serif;
+    font-weight: 400;
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+    margin:auto;
+}
+
+#about{
+    color:rgb(136, 136, 162);
+    width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-size: 50px;
+}
+
+#introduction2{
+    font-family: swear-display, serif;
+    font-weight: 400;
+    font-size: 75px;
+    font-style: italic;
+    text-align: center;
+    margin:auto;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 200px 200px;
+    margin:auto;
+    grid-gap:20px;
+
+}
+
+
+.container div:nth-child(1), div:nth-child(3), div:nth-child(5) {
+    background-color: rgb(136, 136, 162);
+    border: 5px solid rgb(16, 13, 97);
+    border-radius: 20px;
+
+
+}
+
+.container div:nth-child(2), div:nth-child(4), div:nth-child(6){
+    background-color: rgb(200, 200, 236);
+    border: 5px solid rgb(16, 13, 97);
+    border-radius: 20px;
+}
+
+.emailboxes{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    grid-template-rows: 100px;
+    grid-gap:20px;
+}
+.emailme{
+    width:100px;
+    background-color: rgb(16, 13, 97);
+
+}

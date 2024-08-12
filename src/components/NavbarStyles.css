@@ -1,0 +1,23 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.nav-menu{
+    display: flex;
+    align-items: right;
+    color:rgb(255,166,0);
+
+
+}
+
+.nav-menu li{
+    padding: 0 1rem;
+}
+.nav-menu li a{
+font-size: 1.2rem;
+font-weight: 500;
+
+}

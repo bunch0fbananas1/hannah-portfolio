@@ -1,0 +1,40 @@
+h1{
+    color:rgb(131, 160, 255);
+
+}
+
+h2{
+    color:rgb(131, 160, 255);
+    font-size: 14pt;
+    text-align: center;
+}
+p{
+    color: rgb(16, 13, 97);
+    font-style: normal;
+    text-align: left;
+    margin-left: 10pt;
+}
+.center{
+    width: 70px;
+    
+    }
+
+
+input[type=text]{
+    align-items: center;
+    box-sizing: 15px;
+    border: 2px solid rgb(163, 184, 255);
+    border-radius: 2px;
+    padding: 8px;
+    background-color: rgb(187, 203, 255);
+}
+
+input[type=submit]{
+    background-color: rgb(187, 203, 255);
+    border: 2px solid rgb(53, 100, 255);
+
+    height: 30pt;
+    width:30pt;
+    color:rgb(53, 100, 255);
+
+}
