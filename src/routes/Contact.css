@@ -19,7 +19,7 @@ p{
     
     }
 
-
+/*
 input[type=text]{
     align-items: center;
     box-sizing: 15px;
@@ -27,8 +27,8 @@ input[type=text]{
     border-radius: 2px;
     padding: 8px;
     background-color: rgb(187, 203, 255);
-}
-
+}*/
+/*
 input[type=submit]{
     background-color: rgb(187, 203, 255);
     border: 2px solid rgb(53, 100, 255);
@@ -37,4 +37,4 @@ input[type=submit]{
     width:30pt;
     color:rgb(53, 100, 255);
 
-}
+}*/
