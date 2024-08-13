@@ -1,3 +1,6 @@
+# Personal Portfolio
+This website highlights some of my interests and achievements as a college student/young professional. I hope to regularly update this site as well as use it to grow as a designer.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
