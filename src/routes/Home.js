@@ -9,10 +9,13 @@ const Home = () => {
      <br></br>
 
 <div class="start">
+
+<img src="https://github.com/bunch0fbananas1/hannah-portfolio/blob/master/portfoliostar1.png?raw=true" id="portfoliostar" width="100"></img>
+<img src="https://github.com/bunch0fbananas1/hannah-portfolio/blob/master/portfoliostar1.png?raw=true" id="portfoliostar2" width="100"></img>
+
   <p id="introduction">Hi, I'm Hannah.</p>
   
-  <img src="https://github.com/bunch0fbananas1/hannah-portfolio/blob/master/portfoliostar1.png?raw=true" id="portfoliostar" width="100"></img>
-  <img src="https://github.com/bunch0fbananas1/hannah-portfolio/blob/master/portfoliostar1.png?raw=true" id="portfoliostar" width="100"></img>
+  
 
   <p id="about">A design oriented software engineer passionate about front-end & back-end development</p>
 </div>
@@ -34,6 +37,7 @@ const Home = () => {
     <img src="https://github.com/bunch0fbananas1/hannah-portfolio/blob/master/IMG_3522%20(1).JPG?raw=true" alt="me" id="me" width="100%" height="100%" ></img>
   </div>
   <div>
+    
     <p id="aboutbody">I am a <bold>senior</bold> at Washington University in St. Louis studying computer science, with minors in physics and history.
 My interests lie in the intersection of technology, people, and innovation. I love finding ways to creatively solve technological problems.
 In my free time, I can be found running, reading a new book, or testing a new recipe.
@@ -55,26 +59,25 @@ In my free time, I can be found running, reading a new book, or testing a new re
     <div id="projects">
 
       <p id="projecttitle">Multi-armed bandit</p>
-      <br></br>
 
       <p id="projectdesc">Uses python to simulate multi-armed bandit problem</p>
+      <img src="https://github.com/bunch0fbananas1/hannah-portfolio/blob/master/bandit.png?raw=true" id="projectimage" width="33%" height="33%"></img>
     </div>
 
     <div id="projects">
       <p id="projecttitle">Pacman simulation</p>
-      <br></br>
-      <p id="projectdesc">Employs machine learning algorithm to control a classic pacman game</p></div>
+      <p id="projectdesc">Employs machine learning algorithm to control a classic pacman game</p>
+      <img src="https://github.com/bunch0fbananas1/hannah-portfolio/blob/master/pac2.png?raw=true" id="projectimage" width="33%" height="33%"></img>
+      </div>
 
     <div id="projects">
     <p id="projecttitle">Neuroevolution experiment</p>
-    <br></br>
 
     <p id="projectdesc">Uses python to simulate multi-armed bandit problem</p>
     </div>
 
     <div id="projects">
     <p id="projecttitle">Personal portfolio</p>
-    <br></br>
 
     <p id="projectdesc">Portfolio created using React framework with Javascript, HTML, and CSS elements. I created all graphic using the Adobe suite, and deployed the site through Github pages.</p>
     </div>
@@ -89,8 +92,19 @@ In my free time, I can be found running, reading a new book, or testing a new re
 <br></br>
 <br></br>
 
+<p id="introduction2">experience</p>
+<div id="experience">
 
+
+</div>
+
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <p id="introduction2">contact</p>
+
 <div class="contactme">
   <div id="contactinfo">
       <form action="mailto:hghollings@gmail.com" method="post" enctype="text/plain" >

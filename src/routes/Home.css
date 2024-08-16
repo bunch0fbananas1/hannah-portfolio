@@ -58,10 +58,19 @@
     font-style: italic;
     text-align: center;
     margin:auto;
+    position:relative;
 }
 #portfoliostar{
-   position:relative;
+    position:absolute;
     animation: rotation 10s infinite linear;
+    top: 35%;
+    left:7%;
+}
+#portfoliostar2{
+    position:absolute;
+    animation: rotation 10s infinite linear;
+    top: 35%;
+    left:68%;
 }
 @keyframes rotation {
     from {
@@ -78,6 +87,7 @@
     margin-right:auto;
     text-align: center;
     font-size: 50px;
+    position: relative;
     
 }
 #me{
@@ -156,11 +166,13 @@ margin:auto;
 
 #projectdesc{
     justify-content: center;
-    font-size: 18px;
+    text-align: center;
+    font-size: 16px;
     margin:auto;
     background-color: #f0f3ff;
     font-family: 'Courier New', Courier, monospace;
     padding:10px;
+    padding-top: 30px;
 }
 #resume{
     background-color: rgb(16, 13, 97);
