@@ -18,22 +18,20 @@ const Navbar = () => {
         </li>
         
         <li>
-            <Link to="/project">Projects
-            </Link>
+            <a href="#projects">Projects</a>
+            
         </li>
        
         <li>
-            <Link to="/about">About
-            </Link>
+          <a href="#about">About</a>
         </li>
        
         <li>
-            <Link to="/contact">Contact
-            </Link>
+          <a href="#contactinfo">Contact</a>
         </li>
 
         <li>
-            <a href="Hannah Hollingsworth Resume (June 2023).pdf">Resume</a>
+            <a href="#resume">Resume</a>
         </li>
       </ul>
       
